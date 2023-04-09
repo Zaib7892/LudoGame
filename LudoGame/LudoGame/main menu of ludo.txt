@@ -1,0 +1,5 @@
+1. Play game.
+2. How to play.
+3. High scores.
+4. Exit.
+Select one of the above.

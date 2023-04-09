@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+C:\Users\computer house\source\repos\LudoGame\LudoGame\Source1.cpp(868,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\computer house\source\repos\LudoGame\LudoGame\Source1.cpp(251): warning C4715: 'main_menu': not all control paths return a value
+  LudoGame.vcxproj -> C:\Users\computer house\source\repos\LudoGame\Debug\LudoGame.exe
